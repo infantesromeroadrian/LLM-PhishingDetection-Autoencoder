@@ -1,0 +1,16 @@
+timestamp,input_text,is_phishing,confidence
+2024-07-29 19:05:06.547853,"Esto es un men--.-..-.- de oruyehakjhsoajspá
+sdcvsdfcs vc",False,1
+2024-07-29 19:05:38.966528,ASKED 3MOBILE IF 0870 CHATLINES INCLU IN FREE MINS. INDIA CUST SERVs SED YES. L8ER GOT MEGA BILL. 3 DONT GIV A SHIT. BAILIFF DUE IN DAYS. I O �250 3 WANTsdcvsdfcs vc,False,0.29970128182321787
+2024-07-29 19:05:47.938057,ASKED 3MOBILE IF 0870 CHATLINES INCLU IN FREE MINS. INDIA CUST SERVs SED YES. L8ER GOT MEGA BILL. 3 DONT GIV A SHIT. BAILIFF DUE IN DAYS. I O ,False,0.22144084889441729
+2024-07-29 19:06:09.101081,"45,PRIVATE! Your 2003 Account Statement for shows 800 un-redeemed S.I.M. points. Call 08718738001 Identifier Code: 49557 Expires 26/11/04,
+",False,0.12551311030983925
+2024-07-29 19:28:34.964565,esto es una prueba,True,0.9951471299864352,0.5016253590583801
+2024-07-29 19:29:03.111966,",Why don't you wait 'til at least wednesday to see if you get your",True,0.9979870792012662,0.5254949927330017
+2024-07-29 19:29:35.131509,Ok lor... Sony ericsson salesman... I ask shuhui then she say quite gd 2 use so i considering,True,0.9969815423246473,0.5035249590873718
+2024-07-29 19:30:05.474961,Where's mummy's boy ? Is he being good or bad ? Is he being positive or negative ? Why is mummy being made to wait? Hmmmm?,True,0.9959477395750582,0.5171526074409485
+2024-07-29 19:30:25.186026,"""URGENT! Last weekend's draw shows that you have won �1000 cash or a Spanish holiday! CALL NOW 09050000332 to claim. T&C: RSTM, SW7 3SS. 150ppm",True,0.9980868579586968,0.5201563835144043
+2024-07-29 19:32:27.796852,Shall call now dear having food,True,0.9981085754698142,0.5323191285133362
+2024-07-29 19:32:43.162313,"URGENT! Last weekend's draw shows that you have won �1000 cash or a Spanish holiday! CALL NOW 09050000332 to claim. T&C: RSTM, SW7 3SS. 150ppm",True,0.9980599329574034,0.547238290309906
+2024-07-29 19:32:58.115548,"CALL to No: 86888 & claim your reward of 3 hours talk time to use from your phone now! Subscribe6GBP/mnth inc 3hrs 16 stop?txtStop www.gamb.tv,Spam
+110,Ok i thk i got it. Then u wan me 2 come now or wat?",True,0.9966288844589144,0.5327202081680298
