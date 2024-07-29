@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "llm-sms-phising"
+version = "0.1.0"
+description = ""
+authors = ["Adrian Infantes <infantesromeroadrian@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyter = "^1.0.0"
+pandas = "^2.2.2"
+nltk = "^3.8.1"
+scikit-learn = "^1.5.1"
+sentence-transformers = "^3.0.1"
+imblearn = "^0.0"
+optuna = "^3.6.1"
+gradio = "^4.39.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
